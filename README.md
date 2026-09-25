@@ -37,16 +37,8 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nanangdev/nanangdev/output/pacman-contribution-graph.svg">
   </picture>
   <br>
-  
-  ![](https://github-profile-trophy.vercel.app/?username=nanangdev&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nanangdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nanangdev&theme=dark&hide_border=false">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nanangdev&limit=5&theme=dark&combine_all_yearly_contributions=true">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanangdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br>
 
-  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=nanangdev&theme=react-dark&hide_border=true&area=true)
+
 </div>
 <br>
 
